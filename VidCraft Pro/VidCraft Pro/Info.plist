@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Save videos to your media library.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Access is required to use the camera for taking and uploading photos in Crisp chat when communicating with customer support.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to your Photo Library to select videos and compress to reduce their size.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Your data will be used to deliver personalized ads to you. </string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SF-Pro-Display-Bold.ttf</string>
+		<string>SF-Pro-Display-Light.ttf</string>
+		<string>SF-Pro-Display-Medium.ttf</string>
+		<string>SF-Pro-Display-Regular.ttf</string>
+		<string>SF-Pro-Display-Semibold.ttf</string>
+		<string>SF-Pro-Rounded-Regular.otf</string>
+		<string>SF-Pro-Rounded-Medium.otf</string>
+		<string>SF-Pro-Rounded-Semibold.otf</string>
+		<string>SF-Pro-Rounded-Bold.otf</string>
+		<string>SF-Pro-Rounded-Heavy.otf</string>
+	</array>
+</dict>
+</plist>
